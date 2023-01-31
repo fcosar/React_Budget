@@ -1,0 +1,34 @@
+[
+   {
+    "id":1,
+    "title":"Tişört",
+    "price":5,
+    "image":"https://aydinli-polo.b-cdn.net/products/2022/04/06/598491/923af08b-57a2-43a6-8526-5035e67285e4_size2800x2800_quality100.jpg"
+   
+   },
+   {
+    "id":2,
+    "title":"Pantolon",
+    "price":8,
+    "image":"https://www.tonymontana.com/images/urunler/pantolon-3084-16357572111-1000.jpg"
+
+   },
+   {
+    "id":3,
+    "title":"Ayakkabı",
+    "price":12,
+    "image":"https://cdn.dsmcdn.com/ty47/product/media/images/20210108/21/48993235/93484183/1/1_org_zoom.jpg"
+   
+   },
+   {
+    "id":4,
+    "title":"Trençkot",
+    "price":20,
+    "image":"https://cdn-gap.akinon.net/products/2018/07/03/62811/0df855b7-42cd-458e-a139-4a99401874c7.jpg"
+   },{
+    "id":5,
+    "title":"Bot",
+    "price":15,
+    "image":"https://www.attolye.com/Uploads/UrunResimleri/thumb/rosa-bej-deri-bot--8928-.jpg"
+   }
+]
